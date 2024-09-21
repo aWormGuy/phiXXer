@@ -13,6 +13,4 @@ For each new run, the qsub script `job-phiXXer.v0.0.sh` needs to be edited as fo
 
 ## Citing phiXXer
 The complete experimental and computational workflows are described in the following preprint: 
-- Chuzel L, Sinha A, Cunningham CV, Taron CH. High-throughput nanopore DNA sequencing of large insert fosmid clones directly from bacterial colonies. bioRxiv; 2024. [doi:10.1101/2024.02.05.578990](https://doi.org/10.1101/2024.02.05.578990)
-
-
+- Chuzel, L., Sinha, A., Cunningham, C. V., and Taron, C. H. (2024). High-throughput nanopore DNA sequencing of large insert fosmid clones directly from bacterial colonies. Applied and Environmental Microbiology 90, e00243-24. [doi:10.1128/aem.00243-24](https://doi.org/10.1128/aem.00243-24).
